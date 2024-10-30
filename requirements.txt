@@ -1,3 +1,7 @@
 django
 mysqlclient
 python-dotenv
+pillow
+
+# themes
+django-jazzmin
